@@ -689,6 +689,12 @@ port:17 product:"Windows qotd"
 "X-Recruiting:"
 ```
 
+### Cloud Storage Buckets (AWS S3/GCP Storage Buckets//DO Spaces) [🔎 &#x2192;](https://www.shodan.io/search?query=http.html%3A%22ListBucketResult%22)
+
+```
+http.html:"ListBucketResult"
+```
+
 
 ---
 
