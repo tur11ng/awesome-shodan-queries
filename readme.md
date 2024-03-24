@@ -271,7 +271,7 @@ Like the [infamous phpMyAdmin](https://www.cvedetails.com/vulnerability-list/ven
 <div align="center"><img src="screenshots/mongo-express.png" alt="Example: Mongo Express GUI" width="700" /></div>
 
 
-### Jenkins CI [🔎 &#x2192;](https://www.shodan.io/search?query=%22X-Jenkins%22+%22Set-Cookie%3A+JSESSIONID%22+http.title%3A%22Dashboard%22)
+### Jenkins CI/CD [🔎 &#x2192;](https://www.shodan.io/search?query=%22X-Jenkins%22+%22Set-Cookie%3A+JSESSIONID%22+http.title%3A%22Dashboard%22)
 
 ```
 "X-Jenkins" "Set-Cookie: JSESSIONID" http.title:"Dashboard"
@@ -279,6 +279,11 @@ Like the [infamous phpMyAdmin](https://www.cvedetails.com/vulnerability-list/ven
 
 <div align="center"><img src="screenshots/jenkins.png" alt="Example: Jenkins CI" width="700" /></div>
 
+### TeamCity CI/CD [🔎 &#x2192;](https://www.shodan.io/search?query=%22TeamCity-Node-Id%3A+MAIN_SERVER%22)
+
+```
+"TeamCity-Node-Id: MAIN_SERVER"
+```
 
 ### Docker APIs [🔎 &#x2192;](https://www.shodan.io/search?query=%22Docker+Containers%3A%22+port%3A2375)
 
