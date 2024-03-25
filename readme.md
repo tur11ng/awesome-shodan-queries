@@ -554,6 +554,11 @@ http.favicon.hash:-1616143106
 UBNT Streaming Server v1.2 RTSP 200
 ```
 
+### RTSP IP Cameras [🔎 &#x2192;](https://www.shodan.io/search?query=%22RTSP%2F1.0+200+OK%22+has_screenshot%3Atrue)
+
+```
+"RTSP/1.0 200 OK" has_screenshot:true
+```
 
 ---
 
