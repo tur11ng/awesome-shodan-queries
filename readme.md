@@ -526,6 +526,11 @@ Example images not necessary. 🤦
 ("webcam 7" OR "webcamXP") http.component:"mootools" -401
 ```
 
+### Camera Web Server [🔎 &#x2192;](https://www.shodan.io/search?query=%22Server%3A+Camera+Web+Server%2F1.0%22+%22Auther%3A+Steven+Wu%22)
+
+```
+"Server: Camera Web Server/1.0" "Auther: Steven Wu"
+```
 
 ### Android IP Webcam Server [🔎 &#x2192;](https://www.shodan.io/search?query=%22Server%3A+IP+Webcam+Server%22+%22200+OK%22)
 
